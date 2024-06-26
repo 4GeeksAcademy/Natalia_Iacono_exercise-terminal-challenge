@@ -1,0 +1,15 @@
+cd thecmdchallenge
+pwd
+ls -a
+ls -laR
+clear
+cd small-name cat
+ls *.js
+mkdir no-tan-divertido
+cp the-mostboring-text.txt lol.txt
+mv kids.jps iamges/hello
+rm -r small-name
+cat the-ultimate-joke.txt
+rm -r boringfolder
+vi dragon-ball-jokes.md
+:wq
